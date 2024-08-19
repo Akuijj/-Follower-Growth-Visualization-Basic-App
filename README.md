@@ -13,17 +13,25 @@ Combined Charts: Shows category-based metrics with trend lines.
 Technologies:
 PySide2: For GUI components.
 QtCharts: For rendering charts.
-Description of main.py
-create_line_chart(): Generates a line chart to display follower growth over time with dates on the X-axis and follower counts on the Y-axis. Data points are connected by lines to show trends.
-create_bar_chart(): Creates a bar chart to compare data across different influencers or time periods.
-create_combined_chart(): Produces a combined bar and line chart for comparative and trend analysis.
-Usage:
-Install dependencies:
-  pip3.9 install PySide2
-Run the app:
-  python main.py
 
-Notice:
+## Description of main.py
+### create_line_chart():
+ Generates a line chart to display follower growth over time with dates on the X-axis and follower counts on the Y-axis. Data points are connected by lines to show trends.
+### create_bar_chart():
+Creates a bar chart to compare data across different influencers or time periods.
+### create_combined_chart():
+Produces a combined bar and line chart for comparative and trend analysis.
+## Usage:
+### Install dependencies:
+```
+pip3.9 install PySide2
+```
+### Run the app:
+
+```
+python main.py
+```
+## Notice:
 Currently, the values in this project are static. However, future updates will introduce features allowing dynamic data input directly from social media accounts. This will include automatic fetching and updating of follower metrics.
 
 Upcoming Features:
