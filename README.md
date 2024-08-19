@@ -2,7 +2,6 @@
 _____________________________________________________________________________
 https://github.com/user-attachments/assets/07528b2c-72f2-434e-907a-501db570c92d
 _____________________________________________________________________________
-Here's a more concise version of the description for your GitHub page:
 
 Follower Growth Visualization App
 This app visualizes social media follower data using PySide2 and QtCharts. It provides interactive charts to track follower trends, influencer performance, and engagement metrics.
